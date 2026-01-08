@@ -1,1 +1,1 @@
-This sample file2 data initialize
+This sample file 2 data initialize in develop branch
